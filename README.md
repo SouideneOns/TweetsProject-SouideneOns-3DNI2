@@ -2,9 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouideneOns/TweetsProject-SouideneOns-3DNI2/main)
 
-# ------------------Classification des Tweets--------------------
 
-I-Objectifs:
+# I-Objectifs:
 
 - Maitriser l’API de twitter pour l’extraction des tweets
 - Maitriser la partie NLP (natural language processing) avec NLTK en Python
@@ -13,9 +12,9 @@ I-Objectifs:
 
 
 
-II- Réalisation:
+# II- Réalisation:
 
-Partie1: 
+## Partie1: 
 
 On va consacrer cette partie pour rélaiser nos objectifs souhaités 
 
@@ -41,7 +40,7 @@ Commençant tout d'abord parla préparation de l'environement du travail:
  
  Finalement, on termine notre projet par la Classification des tweets en utilisant le kmeans 
  
- Parttie2: requirements.txt
+ ## Parttie2: requirements.txt
   - numpy == 1.18.5
   - matplotlib == 3.2.2
   - py == 1.9.0
@@ -57,9 +56,9 @@ Commençant tout d'abord parla préparation de l'environement du travail:
   - tweepy == 3.9.0
   - wordcloud == 1.8.1
 
-Partie 3: Réalisation des GIF
+## Partie 3: Réalisation des GIF
 
-III- Conclusion:
+# III- Conclusion:
 
 Le traitement du langage naturel est un vaste domaine et il y a tellement plus à faire sur les données pour obtenir des informations plus précises et utiles. Cela vaut la peine d'être exploré!
 
