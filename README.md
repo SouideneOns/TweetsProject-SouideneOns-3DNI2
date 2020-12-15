@@ -58,6 +58,13 @@ Commençant tout d'abord parla préparation de l'environement du travail:
 
 ## Partie 3: Réalisation des GIF
 
+  # GIf1: Réalisation du NLTK :
+  ![Sreenshot](gif5.gif)
+  
+   # GIf1: Classification Kmeans :
+  ![Sreenshot](gif6.gif)
+
+
 # III- Conclusion:
 
 Le traitement du langage naturel est un vaste domaine et il y a tellement plus à faire sur les données pour obtenir des informations plus précises et utiles. Cela vaut la peine d'être exploré!
