@@ -1,5 +1,7 @@
 # TweetsProject-SouideneOns-3DNI2
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouideneOns/TweetsProject-SouideneOns-3DNI2/main)
+
 ------------------Classification des Tweets--------------------
 
 I-Objectifs:
